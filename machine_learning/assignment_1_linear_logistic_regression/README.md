@@ -21,4 +21,4 @@ on various datasets as part of the Machine Learning for AIE course (TU Graz, WS2
 - `gradient_descent.py` — gradient descent implementation on the Rastrigin function
 - `plot_utils.py` — utility functions for plotting and visualization
 - `requirements.txt` — required Python package versions
-- `assignment_1_report.pdf` — report submitted for grading
+- `linear_logistic_regression_report.pdf` — report submitted for grading
